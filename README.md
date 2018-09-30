@@ -5,3 +5,4 @@ The player must keep the loop on the path while avoiding spikes and collecting g
 Gems can be used to buy skins and colors from the store.
 
 ![Screenshot](Screenshots/Screenshot1.png)
+![Screenshot](Screenshots/Screenshot3.png)
