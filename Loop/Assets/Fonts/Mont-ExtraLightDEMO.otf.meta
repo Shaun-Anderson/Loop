@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b74f5f540c26f48cab4c4bfc90abd0e1
+timeCreated: 1531221248
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mont
+  fontNames:
+  - Mont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 10399b3f727e241489fddf3740b98847, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
